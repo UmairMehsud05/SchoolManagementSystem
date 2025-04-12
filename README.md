@@ -35,23 +35,6 @@ A Windows Forms-based application for managing school operations including stude
 - **Database**: SQL Server (with stored procedures for efficient data manipulation)
 
 
-## Installation
-
-### Prerequisites
-
-- Visual Studio 2019 or later
-- .NET Framework 4.5.2 installed
-- SQL Server for the database setup
-
-### Steps to Set Up
-
-1. **Clone the Repository**  
-   Clone or download the project files to your local machine.
-
-   ```bash
-   git clone https://github.com/your-username/school-management-system.git
-
-
    ## 🖼️ Screenshots
 
 ### Login
